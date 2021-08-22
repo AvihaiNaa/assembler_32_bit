@@ -1,7 +1,7 @@
 
 ## About
 This project is an assignment in a C programming course. 
-This project was done by @AvihaiNaa and @NoamLavi.
+This project was done by @AvihaiNaa and @noamlavi97.
 
 ### Files structure (Modules)
 1. `assembler` -  Main program.
