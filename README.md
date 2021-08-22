@@ -22,4 +22,4 @@ This project was done by @AvihaiNaa and @NoamLavi.
 The assembler will output .ent, .ext and .ob files.
 
 
-Link for github project: https://github.com/AvihaiNaa/openu_project
+Link for github project: https://github.com/AvihaiNaa/assembler_32_bit
